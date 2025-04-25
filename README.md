@@ -18,7 +18,7 @@ I’m a passionate **Electronics and Embedded Systems Engineer** with expertise 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Python](https://img.shields.io/badge/-Python-3776AB) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
+![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
 
 ### Embedded Systems & FPGA
 ![Embedded C](https://img.shields.io/badge/-Embedded%20C-green) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-blue) ![Verilog](https://img.shields.io/badge/-Verilog-red) ![VHDL](https://img.shields.io/badge/-VHDL-yellow) ![FPGA](https://img.shields.io/badge/-FPGA-purple)
