@@ -46,9 +46,10 @@ Built a smart home system for automated lighting and fan control based on temper
 Implemented a DSP slice with registers and multiplexers for arithmetic operations, verified using QuestaSim and synthesized in Vivado.
 - **Key Tech**: Verilog, DSP48A1, QuestaSim, Vivado
 
-### 🔹 [Advanced Digital Multimeter on PCB](https://www.linkedin.com/posts/shahd-gamal-294525329_dsp48a1-activity-7307573332437045249-MjK1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4WDF8Bk9P5oS-irdrlv53Rzjd03ps4OSA](https://www.linkedin.com/posts/salah-eldin-hassen-5bba10250_embeddedsystems-avr-digitalmultimeter-activity-7227981461818138624-DQ8C?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)
-Designed and implemented a custom PCB for measuring voltage (±200V), current (0.5mA–2A), and resistance (0–5MΩ).
-- **Key Tech**: ATMega32, PCB, GPIO, LCD, Keypad, ADC, Relays
+### 🔹 [Advanced Digital Multimeter on PCB](https://www.linkedin.com/posts/salah-eldin-hassen-5bba10250_embeddedsystems-avr-digitalmultimeter-activity-7227981461818138624-DQ8C?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)  
+Designed and implemented a custom PCB for measuring voltage (±200V), current (0.5mA–2A), and resistance (0–5MΩ).  
+**Key Tech**: ATMega32, PCB, GPIO, LCD, Keypad, ADC, Relays
+
 
 ---
 
