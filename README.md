@@ -66,6 +66,15 @@ Designed and implemented a custom PCB for measuring voltage (±200V), current (0
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahdGamal-3&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahdGamal-3&layout=compact&theme=radical" width="330"/>
+</div>
+
+---
+
 ## 📩 Let’s Connect!
 <div align="center">
   <a href="mailto:shahdgamal1977@gmail.com"><img src="https://img.shields.io/badge/Email-shahdgamal1977@gmail.com-red"></a>
