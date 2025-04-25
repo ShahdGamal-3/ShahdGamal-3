@@ -9,7 +9,7 @@
 I’m a passionate **Electronics and Embedded Systems Engineer** with expertise in:
 - **Embedded Systems**: AVR Microcontrollers, FreeRTOS, Embedded C, I2C, SPI, USART.
 - **Digital Design**: Verilog, VHDL, FPGA Prototyping, RTL Design, Timing Analysis.
-- **Software Development**: C/C++, Python, MATLAB, Data Structures, Algorithms.
+- **Software Development**: C/C++, MATLAB, Data Structures, Algorithms.
 
 🎓 **Education**: Bachelor of Electronics and Electrical Communications Engineering, Cairo University (2021-2026).
 
