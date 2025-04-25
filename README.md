@@ -28,12 +28,6 @@ I’m a passionate **Electronics and Embedded Systems Engineer** with expertise 
 
 ---
 
-| Languages | Embedded Systems & FPGA | Tools & IDEs |
-|:---------:|:------------------------:|:------------:|
-| ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) | ![Embedded C](https://img.shields.io/badge/-Embedded%20C-green) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-blue) ![Verilog](https://img.shields.io/badge/-Verilog-red) ![VHDL](https://img.shields.io/badge/-VHDL-yellow) ![FPGA](https://img.shields.io/badge/-FPGA-purple) | ![Vivado](https://img.shields.io/badge/-Vivado-orange) ![QuestaSim](https://img.shields.io/badge/-QuestaSim-blue) ![Git](https://img.shields.io/badge/-Git-lightgrey) ![Linux](https://img.shields.io/badge/-Linux-black) |
-
-<hr style="border:1px solid #e1e4e8;margin-top:20px;margin-bottom:20px;">
-
 ## 🔥 Notable Projects
 
 ### 🔹 [Dual Microcontroller Door Locker System](https://www.linkedin.com/posts/shahd-gamal-294525329_embeddedsystems-microcontrollers-securitysolutions-activity-7288690539799945216-qyW3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4WDF8Bk9P5oS-irdrlv53Rzjd03ps4OSA)
@@ -69,15 +63,6 @@ Designed and implemented a custom PCB for measuring voltage (±200V), current (0
 ## 📄 My CV  
 📌 You can view my latest CV in my GitHub repository here:  
 🔗 [CV Repository](https://github.com/ShahdGamal-3/CV.git)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahdGamal-3&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahdGamal-3&layout=compact&theme=radical" width="330"/>
-</div>
 
 ---
 
