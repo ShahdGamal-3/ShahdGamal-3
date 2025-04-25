@@ -62,7 +62,7 @@ Designed and implemented a custom PCB for measuring voltage (±200V), current (0
 
 ## 📩 Let’s Connect!
 <div align="center">
-  <a href="mailto:shahdgamal1977@gmail.com"></a>
+  <a href="mailto:shahdgamal1977@gmail.com"><img src="https://img.shields.io/badge/Email-shahdgamal1977@gmail.com-red"></a>
   <a href="https://www.linkedin.com/in/shahd-gamal-294525329/"><img src="https://img.shields.io/badge/LinkedIn-Shahd%20Gamal-blue"></a>
   <a href="https://github.com/ShahdGamal-3"><img src="https://img.shields.io/badge/GitHub-ShahdGamal--3-lightgrey"></a>
 </div>
