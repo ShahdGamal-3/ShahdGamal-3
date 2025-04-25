@@ -60,6 +60,11 @@ Designed and implemented a custom PCB for measuring voltage (±200V), current (0
 
 ---
 
+## 📄 My CV  
+📌 You can view my latest CV in my GitHub repository here:  
+🔗 [CV Repository](https://github.com/ShahdGamal-3/CV.git)
+---
+
 ## 📩 Let’s Connect!
 <div align="center">
   <a href="mailto:shahdgamal1977@gmail.com"><img src="https://img.shields.io/badge/Email-shahdgamal1977@gmail.com-red"></a>
